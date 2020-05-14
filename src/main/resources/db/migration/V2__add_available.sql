@@ -1,0 +1,2 @@
+ALTER TABLE category
+    ADD COLUMN available BOOLEAN NULL;
